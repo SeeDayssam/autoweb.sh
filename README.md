@@ -9,5 +9,5 @@ sudo ./setup.sh
 
 and then run the run.sh:
 
- chmod +x main 
- ./main <example.com>
+ chmod +x run.sh 
+ ./run.sh <example.com>
