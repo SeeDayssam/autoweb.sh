@@ -1,6 +1,6 @@
-# autoweb.sh
+autoweb
 
-# this script automate some web hacking tools such as:
+this script automate some web hacking tools such as:
 
 assetfinder, amass, httprobe, subjack, nmap, waybackurls, gowitness
 
